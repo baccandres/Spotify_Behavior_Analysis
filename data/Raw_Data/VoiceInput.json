@@ -1,0 +1,20 @@
+[
+  {
+    "voiceSearchQuery" : "play the album Sunsets & Car Crashes",
+    "catalogue" : "premium",
+    "country" : "PA",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "ALBUM",
+    "time" : "2021-08-31T00:20:46.234Z"
+  },
+  {
+    "voiceSearchQuery" : "play the album Pop by U2",
+    "catalogue" : "premium",
+    "country" : "PA",
+    "locale" : "en",
+    "languageRequested" : "en",
+    "entityType" : "ALBUM",
+    "time" : "2021-09-12T00:25:47.568Z"
+  }
+]
